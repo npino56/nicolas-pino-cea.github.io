@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/npino56/nicolas-pino-cea.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Publicaciones 
+```
+[NO CODE: Amazon Sagemaker CANVAS](https://dev.to/aws-builders/sagemaker-canvas-machine-learning-solution-in-few-clics-ph8)
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
