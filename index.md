@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nicolas Pino Notes
 
 You can use the [editor on GitHub](https://github.com/npino56/nicolas-pino-cea.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
